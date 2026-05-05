@@ -23,9 +23,10 @@ Rising junior at the University of Notre Dame
 
 - Data Science & Machine Learning:
   - Regression Analysis
-  - Clustering (K-Means, Hierarchical)
-  - Dimensionality Reduction (PCA)
-  - Data Preprocessing & Feature Engineering
+  - Clustering
+  - Decision trees
+  - Principal component analysis
+  - Data Preprocessing
 
 - Data Visualization:
   - Matplotlib
