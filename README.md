@@ -16,10 +16,26 @@ I'm a student at the University of Notre Dame studying Economics, with minors in
 Rising junior at the University of Notre Dame
 - BA Economics
 
-## Technicals
-- Python
-- Stata
-- Streamlit
+## Technicals:
+- Programming:
+  - Python (Pandas, NumPy, scikit-learn)
+  - Stata
+
+- Data Science & Machine Learning:
+  - Regression Analysis
+  - Clustering (K-Means, Hierarchical)
+  - Dimensionality Reduction (PCA)
+  - Data Preprocessing & Feature Engineering
+
+- Data Visualization:
+  - Matplotlib
+  - Seaborn
+  - Streamlit (interactive apps)
+
+- Tools & Workflow:
+  - Git / GitHub
+  - Jupyter Notebooks
+  - VS Code
 
 ## View Projects: 
 [Data Science Portfolio](https://github.com/atenness/Tennessen-Data-Science-Portfolio)
