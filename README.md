@@ -11,3 +11,15 @@ I'm a student at the University of Notre Dame studying Economics, with minors in
 ## Interests
 - Climbing, camping, hiking
 - Looking to utilize my data science skills to analyze sustainable and fiscal policies
+
+## Education:
+Rising junior at the University of Notre Dame
+- BA Economics
+
+## Technicals
+- Python
+- Stata
+- Streamlit
+
+## View Projects: 
+[Data Science Portfolio](https://github.com/atenness/Tennessen-Data-Science-Portfolio)
