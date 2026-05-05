@@ -1,11 +1,11 @@
-# Hi, I'm August Tennessen! 👋
+# Hi, I'm August (Gus) Tennessen! 👋
 
 I'm a student at the University of Notre Dame studying Economics, with minors in Data Science and Sustainability.
 
 ## About Me
 - 🎓 Currently taking Introduction to Data Science
-- 🌱 Learning Python, pandas, and data visualization with Streamlit
-- 💻 Current projects include weekly updates and improvements in coding skills, and a cumulative portfolio
+- 🌱 Learning Python, pandas, machine learning, data visualization/interpretation, and interactive streamlit apps. 
+- 💻 Current projects: practicing new coding skills, with various projects regarding data cleaning and wrangling, and various machine learning techniques. 
 - 📫 How to reach me: aktenness@nd.edu
 
 ## Interests
